@@ -1,6 +1,5 @@
 .view-detail-page-content{
     max-width: 1140px;
-    height: 80vh;
     margin: auto;
     margin-bottom: 50px;
     display: flex;
@@ -89,7 +88,6 @@
         display: flex;
         justify-content: space-between;
         padding-top: 10px;
-        height: 60vh;
         flex-wrap: wrap;
     }
     .view-detail-title {
@@ -137,7 +135,6 @@
         display: flex;
         justify-content: space-between;
         padding-top: 10px;
-        height: 60vh;
         flex-wrap: wrap;
     }
     .view-detail-title {
@@ -185,7 +182,6 @@
         display: flex;
         justify-content: space-between;
         padding-top: 10px;
-        height: 60vh;
         flex-wrap: wrap;
     }
     .view-detail-title {

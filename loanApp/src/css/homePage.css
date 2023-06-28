@@ -1,11 +1,10 @@
 .home-page-content{
     max-width: 1140px;
-    height: 80vh;
     margin: auto;
     display: flex;
     justify-content: space-between;
     padding-top: 10vh;
-    height: 60vh;
+    height: fit-content;
     flex-wrap: wrap;
 }
 

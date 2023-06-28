@@ -1,6 +1,6 @@
 .history-page-content{
     max-width: 1140px;
-    height: 80vh;
+    height: fit-content;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -85,7 +85,6 @@
 {
     .history-page-content{
         max-width: 1140px;
-        height: 80vh;
         margin: auto;
         display: flex;
         justify-content: space-between;
