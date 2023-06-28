@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+html{
+    scroll-behavior: smooth;
+    -webkit-scroll-behavior: .2s ease-in;
+    -moz-scroll-behavior: .2s ease-in;
+    -ms-scroll-behavior: .2s ease-in;
+    -o-scroll-behavior: .2s ease-in;
+    -webkit-scroll-behavior: .2s ease-in;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
